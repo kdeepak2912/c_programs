@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1446667744 source:d:\bca-i\c\pronew\bcaii\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1515643697 source:d:\bca-i\c\pronew\bcaii\test1.c
+	<conio.h>
+	<stdio.h>
+
+1515643882 source:d:\bca-i\c\pronew\bcaii\sort.c
+	<conio.h>
+	<stdio.h>
+
+1446667744 source:d:\bca-ii\bca203\bcaii\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1515643697 source:d:\bca-ii\bca203\bcaii\test1.c
+	<conio.h>
+	<stdio.h>
+
+1446667744 source:d:\bca-ii\bca203cp\bcaii\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1516526571 source:d:\bca-ii\bca203cp\bcaii\lp31.c
+
+1516527721 source:d:\bca-ii\bca203cp\bcaii\pl25.c
+	<stdio.h>
+	<conio.h>
+
+1516527893 source:d:\bca-ii\bca203cp\bcaii\pl26.c
+	<stdio.h>
+	<conio.h>
+
+1516528034 source:d:\bca-ii\bca203cp\bcaii\pl27.c
+	<stdio.h>
+	<conio.h>
+
+1516528134 source:d:\bca-ii\bca203cp\bcaii\pl28.c
+
+1516528185 source:d:\bca-ii\bca203cp\bcaii\pl29.c
+
+1516528502 source:d:\bca-ii\bca203cp\bcaii\pl30.c
+
+1516528528 source:d:\bca-ii\bca203cp\bcaii\pl32.c
+
+1516528758 source:d:\bca-ii\bca203cp\bcaii\pl33.c
+	<stdio.h>
+	<conio.h>
+
+1515678603 source:d:\bca-ii\bca203cp\bcaii\sort.c
+	<conio.h>
+	<stdio.h>
+
+1515749152 source:d:\bca-ii\bca203cp\bcaii\test1.c
+	<conio.h>
+	<stdio.h>
+
+1516527519 source:d:\bca-ii\bca203cp\bcaii\pl24.c
+	<stdio.h>
+	<conio.h>
+
+1517888356 source:d:\bca-ii\bca203cp\bcaii\tp0602.c
+	<stdio.h>
+	<conio.h>
+
+1517888697 source:d:\bca-ii\bca203cp\bcaii\fun0602.c
+	<stdio.h>
+	<conio.h>
+
+1518522501 source:d:\bca-ii\bca203cp\bcaii\prime.c
+	<stdio.h>
+	<conio.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1446667744 source:d:\bca-i\c\pronew\programsia\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1511687814 source:d:\bca-i\c\pronew\programsia\trial.c
+	<conio.h>
+	<stdio.h>
+
